@@ -1,0 +1,11 @@
+ADSR2VCA
+OPEN CMD
+
+avrdude -V -p m88 -c usbtiny -e -u -U efuse:w:0xf9:m -U hfuse:w:0xdc:m -U lfuse:w:0xff:m
+
+
+after that
+
+avrdude -V -p m88p -c usbtiny -U flash:w:ADSR2VCA.hex
+
+
