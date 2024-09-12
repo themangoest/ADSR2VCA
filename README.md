@@ -1,5 +1,5 @@
 # ADSR2VCA
-One ADSR and 2 VCA in é inch LW format 4U module
+One ADSR and 2 VCA in 2 inch LW format 4U module
 
 Envelope generator with some very useful features. CV is additive for overall length of ADR stages in ADSR mode and add even more length to just the Release stage by adding CV into the Release jack. AR mode allows for snappy to long dynamic rhythm lengths. Very short minimum lengths, self cycling and a maximum output of 5 volts.
 
