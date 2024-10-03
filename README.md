@@ -10,5 +10,5 @@ Sustain (based on gate length)
 Release 4ms-2 seconds (up to ~ 4 seconds with CV)
 
 Depth: 32mm 
-HP: é inch 
+HP: 2 inch 
 Current Draw: +12: 30mA
